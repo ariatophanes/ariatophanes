@@ -7,7 +7,7 @@ I'm very proud of my very first game that I developed as high school student. Th
 
 My Jobs (since 2020):
 * Half-year in [AQUIX](https://aquix.pro/)
-* My current job. Almost two years in [https://littlebit.games/](Little Bit)
+* Almost two years in [Little Bit](https://littlebit.games/) - my current job
 
 Participated in projects:
 * [Idle Evolution - Play Market](https://play.google.com/store/apps/details?id=com.littlebitgames.idleevolution)
