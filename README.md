@@ -21,5 +21,5 @@ Participated in projects:
 Working with Unity, Android Studio, XCode
 In love with C#, F#, Java, Python and psychoanalysis
 
-My github is not so rich in projects but that's temporaly! It may be comfort for you to check some modules developed by my current team and me.
-https://github.com/LittleBitOrganization
+My github is not so rich in projects but that's temporaly! It may be comfort for you to check some modules developed by my current team and me
+[Little Bit Modules](https://github.com/LittleBitOrganization)
