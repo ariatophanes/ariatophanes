@@ -27,7 +27,7 @@ In love with C#, F#, Java, Python and psychoanalysis
 * [For 2017 contenstant's application](https://github.com/ariatophanes/ariatophanes/blob/main/Sirius_Contest_Project_2016.docx)
 * [For 2020 contenstant's application](https://github.com/ariatophanes/ariatophanes/blob/main/Sirius_Contest_Project_2019.docx)
 
-I won 2017 contest so I worked on very interesting project with very smart people from QIWI
+I won 2017 contest so I had opportunity working on big project in team of very smart people from QIWI
 * [Mass Media](https://bosfera.ru/press-release/qiwi-stala-partnerom-obrazovatelnogo-centra-sirius)
 * [Rospatent](https://rospatent.gov.ru/content/uploadfiles/dterpresent.pdf)
 
