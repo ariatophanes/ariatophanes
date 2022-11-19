@@ -22,11 +22,12 @@ Working with Unity, Android Studio, XCode
 In love with C#, F#, Java, Python and psychoanalysis
 
 My github is not so rich in projects but that's temporaly! It may be comfort for you to check some modules developed by my current team and me
+
 [Little Bit Modules](https://github.com/LittleBitOrganization)
 
 You can also check mine projects for "Sirius" (Sochi):
-* [For 2017 contenstant's application] https://github.com/ariatophanes/ariatophanes/blob/main/Sirius_Contest_Project_2016.docx
-* [For 2020 contenstant's application] https://github.com/ariatophanes/ariatophanes/blob/main/Sirius_Contest_Project_2019.docx
+* [For 2017 contenstant's application](https://github.com/ariatophanes/ariatophanes/blob/main/Sirius_Contest_Project_2016.docx)
+* [For 2020 contenstant's application](https://github.com/ariatophanes/ariatophanes/blob/main/Sirius_Contest_Project_2019.docx)
 
 I won 2017 contest so I worked on very interesting project with very smart people from QIWI
 * [Mass Media](https://bosfera.ru/press-release/qiwi-stala-partnerom-obrazovatelnogo-centra-sirius)
