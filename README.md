@@ -1,39 +1,38 @@
-### G'day! I'm Vadim, 20 yo Unity Developer from Saint-Petersburg  👋
+### Hello! I'm Vaddy, 21 yo Unity Developer from Kansas City 👋
 
-My story begins in childhood. I started studying C# and Unity when I was 12. Up to this moment I used Game Maker for my first games. 
-I'm very proud of my very first game that I developed as high school student. This project is truly indie. All the content is made by myself. So meet this game called "ESCA 2019"!
+My story begins in Syberia. There I started studying C# and Unity. I was only 12 yo. I used Game Maker for my first simple games. 
+I'm very proud of my very first game that I developed as high school student with Unity Engine. This project is truly indie. All the content is made by myself and I'm happy to introduce it!
 
-[My VERY FIRST published game!](https://play.google.com/store/apps/details?id=com.birdscult.esca.android.shooter&hl=ru&gl=US)
+[My very first published game!](https://play.google.com/store/apps/details?id=com.birdscult.esca.android.shooter&hl=ru&gl=US)
 
-Working with Unity, Android Studio, XCode
+I'm working with Unity. Familiar to Android Studio and XCode
+In love with C#, Java and psychoanalysis
 
-In love with C#, F#, Java, Python and psychoanalysis
+Jobs History:
+* Half-year in [AQUIX](https://aquix.pro/) as junior fullstack dev / june 2020 - jan 2020
+* Two years in [Little Bit](https://littlebit.games/) as middle+ Unity Developer / feb 2020 - feb 2022
+* Half-year in [Geeky House](https://geeky.house) / as middle+ to senior Unity Developer / feb 2022 - aug 2022
 
-
-*My Jobs (since 2020):*
-* Half-year in [AQUIX](https://aquix.pro/)
-* Almost two years in [Little Bit](https://littlebit.games/) - my current job
-
-*Participated in projects:*
+* Projects I participated in: *
 * [Idle Evolution - Play Market](https://play.google.com/store/apps/details?id=com.littlebitgames.idleevolution)
 * [Startup Empire - Play Market](https://play.google.com/store/apps/details?id=com.littlebit.itcorp)
 * [Wine Empire - Play Market](https://play.google.com/store/apps/details?id=com.littlebit.wine.empire.idle.tycoon)
 * [Garden Evolution - Play Market](https://play.google.com/store/apps/details?id=com.littlebit.idle.garden.evolution.empire.tycoon)
 * [Idle Money Factory - Play Market](https://play.google.com/store/apps/details?id=com.littlebit.idlemoneyfactory&hl=ru&gl=US)
 * [Throw Anything! - ???](https://apksos.com/app/com.littlebit.throwanything)
-* Place's for lots of projects in AQUIX that I can't demonstrate
+* [Goddess and Magic: Vodoo Merge](https://play.google.com/store/apps/details?id=house.geeky.mergeevolution&pli=1)
+* [Magic Pets: Care And Merge](https://play.google.com/store/apps/details?id=house.geeky.magicpets)
 
-*You can also check mine projects for "Sirius" (Sochi):*
+* You can also check mine competition projects
 * [For 2017 contenstant's application](https://github.com/ariatophanes/ariatophanes/blob/main/Sirius_Contest_Project_2016.docx)
 * [For 2020 contenstant's application](https://github.com/ariatophanes/ariatophanes/blob/main/Sirius_Contest_Project_2019.docx)
 
-I won 2017 contest so I had opportunity working on big project in team of very smart people from QIWI
+I won 2017 Sochi-Sirius contest so I had an opportunity of working on a big project in the team of very smart people from QIWI company and see PUTIN in person!
 * [Mass Media](https://bosfera.ru/press-release/qiwi-stala-partnerom-obrazovatelnogo-centra-sirius)
 * [Rospatent](https://rospatent.gov.ru/content/uploadfiles/dterpresent.pdf)
 
-My 2020 contest project is high-scored but my motivation letter...
-
-
-My github is not so rich in projects but that's temporaly! It may be comfort for you to check some modules developed by my current team and me
-
+Although, it may be intresting for you to check out some modules I've participated in while working for LittleBitGames company:
 [Little Bit Modules](https://github.com/LittleBitOrganization)
+
+There is also cool test task I made for Kefir games company (and successfully accepted!):
+[Asteroids](https://github.com/ariatophanes/asteroids-clone)
