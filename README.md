@@ -1,9 +1,10 @@
-### Hello! I'm Vaddy, 21 yo Game Developer from Kansas City 👋
+### Hello there! 
 
-My story begins in Syberia. I was only 12 years old when I started studying C# and Unity. As a result I had my very first game published on Google Play store when I was high school student. (All the content and game assets made by myself. [Click](https://play.google.com/store/apps/details?id=com.birdscult.esca.android.shooter&hl=ru&gl=US) if you're interested)
+My name is Vaddy. I'm a 21-year-old game developer with a passion for creating immersive gaming experiences. My journey in game development began in the remote landscapes of Siberia when I was just 12 years old, and I've been honing my skills ever since. Now, I'm based in Kansas City.
 
-Game development is my passion. Here Unity is my main tool. However I'm working not only with Unity. I'm very into studying and exploring new things. 
-I'm also familiar to Android Studio and XCode. In friendships with Godot. In love with psychoanalysis.
+With a strong foundation in Unity, I've not only grown as a developer but also gained valuable insights into the gaming industry. Throughout my journey, I've worked on a variety of projects that have allowed me to expand my skill set. Whether it's designing captivating gameplay mechanics, crafting stunning visuals, or optimizing performance, I'm committed to delivering high-quality results.
+
+I'm excited to collaborate with fellow creatives and clients who share my enthusiasm for gaming. Together, we can bring unique ideas to life and create memorable gaming experiences. If you're looking for a dedicated game developer with a passion for innovation, let's connect and turn your vision into reality.
 
 Jobs History:
 * Half-year in [AQUIX](https://aquix.pro/) as junior fullstack dev / june 2020 - jan 2020
@@ -20,7 +21,7 @@ Projects in which I contributed:
 * [Goddess and Magic: Vodoo Merge - Android / IOS](https://play.google.com/store/apps/details?id=house.geeky.mergeevolution&pli=1)
 * [Magic Pets: Care And Merge - Android / IOS](https://play.google.com/store/apps/details?id=house.geeky.magicpets)
 
-My Sochi-Sirius competition projects:
+My "Sochi Sirius" competition projects:
 * [2017 contenstant's application](https://github.com/ariatophanes/ariatophanes/blob/main/Sirius_Contest_Project_2016.docx)
 * [2020 contenstant's application](https://github.com/ariatophanes/ariatophanes/blob/main/Sirius_Contest_Project_2019.docx)
 
@@ -31,5 +32,5 @@ My collaboration with QIWI company:
 Although, it may be intresting for you to check out some modules in which I've participated while working for LittleBitGames company:
 [Little Bit Modules](https://github.com/LittleBitOrganization)
 
-There is also cool test task I made for Kefir games company (and was successfully accepted):
+There is also cool test task I made for "Kefir Games" company that you may find interesting:
 [Asteroids](https://github.com/ariatophanes/asteroids-clone)
