@@ -7,9 +7,9 @@ With a strong foundation in Unity, I've not only grown as a developer but also g
 I'm excited to collaborate with fellow creatives and clients who share my enthusiasm for gaming. Together, we can bring unique ideas to life and create memorable gaming experiences. If you're looking for a dedicated game developer with a passion for innovation, let's connect and turn your vision into reality.
 
 Jobs History:
-* Half-year in [AQUIX](https://aquix.pro/) as junior fullstack dev / june 2020 - jan 2020
-* Two years in [Little Bit](https://littlebit.games/) as middle+ Unity Developer / feb 2020 - feb 2022
-* Half-year in [Geeky House](https://geeky.house) / as middle+ to senior Unity Developer / feb 2022 - aug 2022
+* Half-year in [AQUIX](https://aquix.pro/) as junior fullstack dev / june 2020 - jan 2021
+* Two years in [Little Bit](https://littlebit.games/) as middle+ Unity Developer / feb 2021 - feb 2023
+* Half-year in [Geeky House](https://geeky.house) / as middle+ to senior Unity Developer / feb 2023 - aug 2023
 
 Projects in which I contributed:
 * [Idle Evolution - Android / IOS](https://play.google.com/store/apps/details?id=com.littlebitgames.idleevolution)
