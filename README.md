@@ -28,5 +28,5 @@ My collaboration with QIWI company:
 Also, it may be interesting for you to check out some modules in which I've participated while working for LittleBitGames company:
 [Little Bit Modules](https://github.com/LittleBitOrganization)
 
-Bonus! Here is a cool test task I made for "Kefir Gaming" company that you may find interesting:
+Bonus! Here is a cool test task I made for "Kefir Games" company that you may find interesting:
 [Asteroids](https://github.com/ariatophanes/asteroids-clone)
