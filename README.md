@@ -1,10 +1,6 @@
 ### Hello there! 
 
-My name is Vaddy. I'm a 21-year-old game developer with a passion for creating immersive gaming experiences. My journey in game development began in the remote landscapes of Siberia when I was just 12 years old, and I've been honing my skills ever since. Now, I'm based in Kansas City.
-
-With a strong foundation in Unity, I've not only grown as a developer but also gained valuable insights into the gaming industry. Throughout my journey, I've worked on a variety of projects that have allowed me to expand my skill set. Whether it's designing captivating gameplay mechanics, crafting stunning visuals, or optimizing performance, I'm committed to delivering high-quality results.
-
-I'm excited to collaborate with fellow creatives and clients who share my enthusiasm for gaming. Together, we can bring unique ideas to life and create memorable gaming experiences. If you're looking for a dedicated game developer with a passion for innovation, let's connect and turn your vision into reality.
+My name is Vadim, I'm a 22-year-old developer with a passion for creating immersive gaming experiences. My journey began in Siberia when I was 12 years old, when I first started learning about game development. Fast forward to now, I live in Kansas City with my fiancé. I have a strong knowledge of unity, and with that I have been able to dive into the world of game development! Throughout my journey, I've worked with a variety of studios that have allowed me to expand my skill set. I have spent my time designing captivating gameplay mechanics, crafting stunning visuals, and optimizing performance on every project I’ve had the privilege of working on. I'm always excited to collaborate with fellow developers and clients who share my passion for gaming! There’s nothing I enjoy more than bringing unique ideas to life, and creating memorable gaming experiences. If you're looking for a dedicated game developer with a passion for learning, innovating and optimizing let's connect and turn your vision into reality.
 
 Jobs History:
 * Half-year in [AQUIX](https://aquix.pro/) as junior fullstack dev / june 2020 - jan 2021
@@ -29,8 +25,8 @@ My collaboration with QIWI company:
 * [Media](https://bosfera.ru/press-release/qiwi-stala-partnerom-obrazovatelnogo-centra-sirius)
 * [Rospatent](https://rospatent.gov.ru/content/uploadfiles/dterpresent.pdf)
 
-Although, it may be intresting for you to check out some modules in which I've participated while working for LittleBitGames company:
+Also, it may be interesting for you to check out some modules in which I've participated while working for LittleBitGames company:
 [Little Bit Modules](https://github.com/LittleBitOrganization)
 
-There is also cool test task I made for "Kefir Games" company that you may find interesting:
+Bonus! Here is a cool test task I made for "Kefir Gaming" company that you may find interesting:
 [Asteroids](https://github.com/ariatophanes/asteroids-clone)
