@@ -7,7 +7,7 @@ Jobs History:
 * Two years in [Little Bit](https://littlebit.games/) as middle+ Unity Developer / feb 2021 - feb 2023
 * Half-year in [Geeky House](https://geeky.house) / as middle+ to senior Unity Developer / feb 2023 - aug 2023
 
-Projects in which I contributed:
+Some of the projects in which I contributed:
 * [Idle Evolution - Android / IOS](https://play.google.com/store/apps/details?id=com.littlebitgames.idleevolution)
 * [Startup Empire - Android / IOS](https://play.google.com/store/apps/details?id=com.littlebit.itcorp)
 * [Wine Empire - Android / IOS](https://play.google.com/store/apps/details?id=com.littlebit.wine.empire.idle.tycoon)
